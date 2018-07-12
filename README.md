@@ -1,5 +1,8 @@
 # Miniet-auto-topo
 auto topo by Mininet
+Require:
+Ubuntu14.04+
+
 Before todo:
 </br>
 1.install Mininet
